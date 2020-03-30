@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">register</string>
+    <string-array name="citylist">
+        <item>北京</item>>
+        <item>上海</item>
+        <item>重庆</item>
+        <item>广州</item>
+    </string-array>
+</resources>
